@@ -58,7 +58,7 @@ plugins:
 
 author:
   name   : "Dongyoun Kim"
-  avatar : "/assets/images/IMG_0010.jpeg"
+  avatar : "/assets/images/bio-photo.jpeg"
   bio    : "Hello there! I am a Ph.D. student in Computer Science at Iowa State University."
   location : "Ames, Iowa"
   links:
